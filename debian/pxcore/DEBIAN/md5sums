@@ -1,0 +1,10 @@
+54d61f72c2fa44ae2731f62929f54664  usr/bin/Spark
+44ac4182f86bdca018f83393720e52d0  usr/lib/pxcore/libcurl.so.4.3.0
+c0f0beb304908a561f8798483f4e4f9b  usr/lib/pxcore/libfreetype.so.6.15.0
+994872f0861c2f4dfc3a225e79606983  usr/lib/pxcore/libjpeg.so.9.1.0
+05d34feaba3443a4d859b773202a0da9  usr/lib/pxcore/libnode.so.48
+8a0125da306712fec2bdf63a2dccd80b  usr/lib/pxcore/libpng16.so.16.28.0
+a6c7478d710bf2857ac6b55c6ef34634  usr/lib/pxcore/libturbojpeg.so.0.1.0
+9cb0a28f7e74a87607f1981c1caa660e  usr/share/doc/pxcore/README.Debian
+a25c20d304330089a9592ad7e4883f84  usr/share/doc/pxcore/changelog.Debian.gz
+409071a5c8cab0270e33776880164b05  usr/share/doc/pxcore/copyright

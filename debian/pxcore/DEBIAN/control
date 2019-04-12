@@ -1,0 +1,11 @@
+Package: pxcore
+Version: 1.0-1
+Architecture: amd64
+Maintainer: Zoltan Kuscsik <zoltan@zkres.com>
+Installed-Size: 34508
+Depends: freeglut3, libc6 (>= 2.17), libgcc1 (>= 1:3.4), libgl1, libglew2.0 (>= 1.12.0), libgnutls30 (>= 3.5.6), libnettle6, libstdc++6 (>= 6), libx11-6, zlib1g (>= 1:1.2.11)
+Section: unknown
+Priority: extra
+Multi-Arch: foreign
+Homepage: https://github.com/pxscene/pxCore
+Description: SparkUI engine for set-top-boxes

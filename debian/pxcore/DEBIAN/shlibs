@@ -1,0 +1,6 @@
+libcurl 4 pxcore
+libfreetype 6 pxcore
+libjpeg 9 pxcore
+libnode 48 pxcore
+libpng16 16 pxcore
+libturbojpeg 0 pxcore

@@ -1,0 +1,13 @@
+Source: pxcore
+Section: unknown
+Priority: extra
+Maintainer: Zoltan Kuscsik <zoltan@zkres.com>
+Build-Depends: cmake
+Standards-Version: 3.9.8
+Homepage: https://github.com/pxscene/pxCore
+
+Package: pxcore
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: SparkUI engine for set-top-boxes
